@@ -3,7 +3,7 @@ body{
     margin: 0;
 }
 #seção1{
-    background-color: rgb(160, 39, 216);
+    background-image: url(fundo\ da\ netflix.jpg);
     background-size: cover;
     height: 700px;
     width: 100%;
