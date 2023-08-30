@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    margin: 0;
+}
+#seção1{
+    background-color: rgb(160, 39, 216);
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+}
+#barra{
+    background-color: white;
+    height: 20px;
+    width: 100px;
+}
